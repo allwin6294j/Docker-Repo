@@ -1,0 +1,6 @@
+1. Switch to the project folder
+2. Initialize the repository --> git init
+3. git add .
+4. Commit or add the files which we want to push to remote repossitory --> git commit -m "Docker Commit"
+5. Add the remote repositoy origin URL --> git remote add origin git@github.com:allwin6294/Docker-Repo.git
+6. Push the source code to remote origin --> git push -u origin master
