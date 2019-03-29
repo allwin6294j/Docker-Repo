@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            Docker slave branch merged with master branch to be deployed in AWS BeanStalk and running...Hurray...
           </p>
           <a
             className="App-link"
